@@ -13,7 +13,7 @@ include 'header.php';
     </div>
     <div class="col-sm-7 slideanim">
       <div class="row">
-        <form class="contact_form" action="contact_form.php" method="post">
+        <form class="contact_form" action="contacto2.php" method="post">
               <div class="col-sm-6 form-group">
                 <input class="form-control" id="nombre" name="nombre" placeholder="Nombre" type="text" required>
               </div>
